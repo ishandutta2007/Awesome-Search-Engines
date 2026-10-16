@@ -46,6 +46,7 @@ Covering typo-tolerant fuzzy matching, BM25 lexical inverted indices, dense vect
   - [16. Xapian](#16-xapian-)
 - [💡 Architectural Decision Guide](#-architectural-decision-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
 - [📈 Star History](#-star-history)
 - [📜 License & Disclaimer](#-license--disclaimer)
 
@@ -384,6 +385,28 @@ Contributions are warmly welcomed! Help keep this search engine ecosystem guide 
    - For SaaS products, include verifiable starting prices and specific free tier / trial terms.
    - Summarize core architecture, licensing, and key use cases factually.
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
+
+---
+
+## 💖 Support & Community
+
+Thank you for visiting and supporting **Awesome Search Engines**! 🌟
+
+If you find this curated ecosystem guide valuable for your projects, architecture designs, or research, please consider supporting its ongoing development:
+
+- ⭐ **Star this repository** to help other developers and search architects discover it.
+- 🍴 **Fork and contribute** new search engines, performance benchmarks, and documentation updates.
+- 📢 **Share this list** with your team, developer communities, and social networks.
+- ☕ **Buy me a coffee / Sponsor the project**: Support ongoing maintenance and independent research through the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
