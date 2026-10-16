@@ -1,6 +1,6 @@
 # Awesome-Search-Engines
 
-# Top Search Engines Ecosystem
+## Top Search Engines Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Typo-Tolerant Fuzzy Matching, Hybrid Retrieval & Sub-50ms Query Latency*  
