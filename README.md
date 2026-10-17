@@ -50,7 +50,7 @@ Covering typo-tolerant fuzzy matching, BM25 lexical inverted indices, dense vect
   - [20. Groonga](#20-groonga-)
 - [💡 Architectural Decision Guide](#-architectural-decision-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [💖 Support & Community](#-support--community)
+- [💖 Support](#-support)
 - [📈 Star History](#-star-history)
 - [📜 License & Disclaimer](#-license--disclaimer)
 
@@ -459,7 +459,7 @@ Contributions are warmly welcomed! Help keep this search engine ecosystem guide 
 
 ---
 
-## 💖 Support & Community
+## 💖 Support
 
 Thank you for visiting and supporting **Awesome Search Engines**! 🌟
 
