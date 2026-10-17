@@ -422,7 +422,7 @@ If you find this curated ecosystem guide valuable for your projects, architectur
 - **Disclaimer:** All product names, logos, and brands are property of their respective owners. Inclusion in this repository represents an objective architectural overview and does not imply endorsement.
 # Awesome-Search-Engines
 
-# Top Search Engines Ecosystem
+## Top Search Engines Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Typo-Tolerant Fuzzy Matching, Hybrid Retrieval & Sub-50ms Query Latency*  
