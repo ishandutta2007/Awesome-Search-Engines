@@ -110,7 +110,7 @@ The following hosted search platforms provide turnkey indexing, relevance tuning
 
 ## 🐙 Open-Source GitHub Projects
 
-Explore the most prominent open-source search engines, libraries, and retrieval platforms. Sorted in **descending order by GitHub Stars_Count**.
+Explore the most prominent open-source search engines, libraries, and retrieval platforms. Sorted in **descending order by GitHub_Stars_Count**.
 
 ### 1. [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 - **License:** SSPL 1.0 / Elastic License 2.0 | **Primary Language:** Java
