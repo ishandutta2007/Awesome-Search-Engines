@@ -110,9 +110,9 @@ The following hosted search platforms provide turnkey indexing, relevance tuning
 
 ## 🐙 Open-Source GitHub Projects
 
-Explore the most prominent open-source search engines, libraries, and retrieval platforms. Sorted in **descending order by GitHub star count**.
+Explore the most prominent open-source search engines, libraries, and retrieval platforms. Sorted in **descending order by GitHub Stars_Count**.
 
-### 1. [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
+### 1. [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 - **License:** SSPL 1.0 / Elastic License 2.0 | **Primary Language:** Java
 - **Core Architecture:** Distributed JSON document store built on top of Apache Lucene. Employs an inverted index with BM25 scoring alongside HNSW dense vector indexing.
 - **Key Capabilities:**
@@ -127,7 +127,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 2. [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
+### 2. [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
 - **License:** MIT | **Primary Language:** Rust
 - **Core Architecture:** Lightweight, memory-efficient search engine written in Rust using LMDB as its underlying key-value storage engine.
 - **Key Capabilities:**
@@ -143,7 +143,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 3. [SearXNG](https://github.com/searxng/searxng) [![GitHub stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)
+### 3. [SearXNG](https://github.com/searxng/searxng) [![GitHub_Stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers)
 - **License:** AGPL-3.0 | **Primary Language:** Python
 - **Core Architecture:** Privacy-respecting, metasearch engine gateway aggregating results from over 70 search services without tracking user queries.
 - **Key Capabilities:**
@@ -158,7 +158,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 4. [Typesense](https://github.com/typesense/typesense) [![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)
+### 4. [Typesense](https://github.com/typesense/typesense) [![GitHub_Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)
 - **License:** GPL-3.0 | **Primary Language:** C++
 - **Core Architecture:** In-memory inverted index written in C++ with asynchronous disk persistence (RocksDB) and Raft-based distributed consensus.
 - **Key Capabilities:**
@@ -174,7 +174,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 5. [Sonic](https://github.com/valeriansaliou/sonic) [![GitHub stars](https://img.shields.io/github/stars/valeriansaliou/sonic?style=social&color=white)](https://github.com/valeriansaliou/sonic/stargazers)
+### 5. [Sonic](https://github.com/valeriansaliou/sonic) [![GitHub_Stars](https://img.shields.io/github/stars/valeriansaliou/sonic?style=social&color=white)](https://github.com/valeriansaliou/sonic/stargazers)
 - **License:** MPL-2.0 | **Primary Language:** Rust
 - **Core Architecture:** Ultra-minimalist, schema-less search backend written in Rust acting as an index identifier broker rather than a document store.
 - **Key Capabilities:**
@@ -189,7 +189,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 6. [ZincSearch](https://github.com/zincsearch/zincsearch) [![GitHub stars](https://img.shields.io/github/stars/zincsearch/zincsearch?style=social&color=white)](https://github.com/zincsearch/zincsearch/stargazers)
+### 6. [ZincSearch](https://github.com/zincsearch/zincsearch) [![GitHub_Stars](https://img.shields.io/github/stars/zincsearch/zincsearch?style=social&color=white)](https://github.com/zincsearch/zincsearch/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Go
 - **Core Architecture:** Modern search engine built in Go using the Bluge indexing library and BadgerDB key-value storage engine.
 - **Key Capabilities:**
@@ -204,7 +204,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 7. [Tantivy](https://github.com/quickwit-oss/tantivy) [![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social&color=white)](https://github.com/quickwit-oss/tantivy/stargazers)
+### 7. [Tantivy](https://github.com/quickwit-oss/tantivy) [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/tantivy?style=social&color=white)](https://github.com/quickwit-oss/tantivy/stargazers)
 - **License:** MIT / Apache-2.0 | **Primary Language:** Rust
 - **Core Architecture:** Pure Rust full-text search engine library inspired by Apache Lucene, emphasizing raw indexing and search throughput.
 - **Key Capabilities:**
@@ -220,7 +220,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 8. [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
+### 8. [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Core Architecture:** Fully open-source community fork of Elasticsearch 7.10.2 and Kibana led by AWS, maintaining Apache 2.0 licensing.
 - **Key Capabilities:**
@@ -235,7 +235,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 9. [Manticore Search](https://github.com/manticoresoftware/manticoresearch) [![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social&color=white)](https://github.com/manticoresoftware/manticoresearch/stargazers)
+### 9. [Manticore Search](https://github.com/manticoresoftware/manticoresearch) [![GitHub_Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social&color=white)](https://github.com/manticoresoftware/manticoresearch/stargazers)
 - **License:** GPL-2.0 | **Primary Language:** C++
 - **Core Architecture:** High-speed SQL-native search engine originating as a fork of Sphinx Search, rewritten in modern C++ with columnar storage.
 - **Key Capabilities:**
@@ -250,7 +250,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 10. [Quickwit](https://github.com/quickwit-oss/quickwit) [![GitHub stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)
+### 10. [Quickwit](https://github.com/quickwit-oss/quickwit) [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)
 - **License:** AGPL-3.0 / Apache-2.0 | **Primary Language:** Rust
 - **Core Architecture:** Cloud-native search engine designed to execute sub-second search directly on cloud object storage (Amazon S3, Google Cloud Storage, Azure Blob).
 - **Key Capabilities:**
@@ -265,7 +265,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 11. [Bleve](https://github.com/blevesearch/bleve) [![GitHub stars](https://img.shields.io/github/stars/blevesearch/bleve?style=social&color=white)](https://github.com/blevesearch/bleve/stargazers)
+### 11. [Bleve](https://github.com/blevesearch/bleve) [![GitHub_Stars](https://img.shields.io/github/stars/blevesearch/bleve?style=social&color=white)](https://github.com/blevesearch/bleve/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Go
 - **Core Architecture:** Modern text indexing and search library written natively in pure Go, with pluggable storage backends (BoltDB, Badger, LevelDB).
 - **Key Capabilities:**
@@ -280,7 +280,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 12. [ParadeDB](https://github.com/paradedb/paradedb) [![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb?style=social&color=white)](https://github.com/paradedb/paradedb/stargazers)
+### 12. [ParadeDB](https://github.com/paradedb/paradedb) [![GitHub_Stars](https://img.shields.io/github/stars/paradedb/paradedb?style=social&color=white)](https://github.com/paradedb/paradedb/stargazers)
 - **License:** AGPL-3.0 / Apache-2.0 | **Primary Language:** Rust / C
 - **Core Architecture:** Elastic-grade full-text search engine and columnar analytics engine built as a native PostgreSQL extension using Tantivy.
 - **Key Capabilities:**
@@ -295,7 +295,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 13. [Vespa](https://github.com/vespa-engine/vespa) [![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
+### 13. [Vespa](https://github.com/vespa-engine/vespa) [![GitHub_Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** C++ / Java
 - **Core Architecture:** Yahoo's high-scale distributed platform for real-time vector search, lexical text search, and multi-stage machine learning ranking.
 - **Key Capabilities:**
@@ -310,7 +310,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 14. [Pagefind](https://github.com/Pagefind/pagefind) [![GitHub stars](https://img.shields.io/github/stars/Pagefind/pagefind?style=social&color=white)](https://github.com/Pagefind/pagefind/stargazers)
+### 14. [Pagefind](https://github.com/Pagefind/pagefind) [![GitHub_Stars](https://img.shields.io/github/stars/Pagefind/pagefind?style=social&color=white)](https://github.com/Pagefind/pagefind/stargazers)
 - **License:** MIT | **Primary Language:** Rust
 - **Core Architecture:** Static low-bandwidth search library written in Rust that compiles search indices into static chunked web assets for client-side search without running a backend server.
 - **Key Capabilities:**
@@ -325,7 +325,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 15. [Marqo](https://github.com/marqo-ai/marqo) [![GitHub stars](https://img.shields.io/github/stars/marqo-ai/marqo?style=social&color=white)](https://github.com/marqo-ai/marqo/stargazers)
+### 15. [Marqo](https://github.com/marqo-ai/marqo) [![GitHub_Stars](https://img.shields.io/github/stars/marqo-ai/marqo?style=social&color=white)](https://github.com/marqo-ai/marqo/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Python
 - **Core Architecture:** End-to-end vector and multimodal search engine integrating embedding model inference, vector storage, and lexical scoring into a unified platform.
 - **Key Capabilities:**
@@ -340,7 +340,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 16. [Infinity](https://github.com/infiniflow/infinity) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
+### 16. [Infinity](https://github.com/infiniflow/infinity) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** C++
 - **Core Architecture:** AI-native retrieval engine and database designed for LLM applications, delivering ultra-fast hybrid search combining dense vectors, sparse vectors, multi-vector tensors, and full-text BM25.
 - **Key Capabilities:**
@@ -355,7 +355,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 17. [Apache Lucene](https://github.com/apache/lucene) [![GitHub stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
+### 17. [Apache Lucene](https://github.com/apache/lucene) [![GitHub_Stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Core Architecture:** The foundational high-performance, full-featured text search engine library in Java that powers Elasticsearch, Solr, and OpenSearch.
 - **Key Capabilities:**
@@ -374,7 +374,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 18. [Apache Solr](https://github.com/apache/solr) [![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers)
+### 18. [Apache Solr](https://github.com/apache/solr) [![GitHub_Stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers)
 - **License:** Apache-2.0 | **Primary Language:** Java
 - **Core Architecture:** Mature, battle-tested distributed enterprise search platform built on Apache Lucene with over 19 years of production deployments.
 - **Key Capabilities:**
@@ -389,7 +389,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 19. [Xapian](https://github.com/xapian/xapian) [![GitHub stars](https://img.shields.io/github/stars/xapian/xapian?style=social&color=white)](https://github.com/xapian/xapian/stargazers)
+### 19. [Xapian](https://github.com/xapian/xapian) [![GitHub_Stars](https://img.shields.io/github/stars/xapian/xapian?style=social&color=white)](https://github.com/xapian/xapian/stargazers)
 - **License:** GPL-2.0 | **Primary Language:** C++
 - **Core Architecture:** Highly adaptable probabilistic Information Retrieval (IR) library written in C++ implementing the BM25 and BM25+ ranking models.
 - **Key Capabilities:**
@@ -400,7 +400,7 @@ Explore the most prominent open-source search engines, libraries, and retrieval 
 
 ---
 
-### 20. [Groonga](https://github.com/groonga/groonga) [![GitHub stars](https://img.shields.io/github/stars/groonga/groonga?style=social&color=white)](https://github.com/groonga/groonga/stargazers)
+### 20. [Groonga](https://github.com/groonga/groonga) [![GitHub_Stars](https://img.shields.io/github/stars/groonga/groonga?style=social&color=white)](https://github.com/groonga/groonga/stargazers)
 - **License:** LGPL-2.1 | **Primary Language:** C
 - **Core Architecture:** Embeddable full-text search engine and column store database providing real-time inverted index updates and lock-free concurrent reads.
 - **Key Capabilities:**
@@ -452,7 +452,7 @@ Contributions are warmly welcomed! Help keep this search engine ecosystem guide 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/new-search-engine`).
 3. 📝 **Add or Update Entries**:
-   - Provide the project name, repository link, and live star badge for open-source tools.
+   - Provide the project name, repository link, and live Stars_Badge for open-source tools.
    - For SaaS products, include verifiable starting prices and specific free tier / trial terms.
    - Summarize core architecture, licensing, and key use cases factually.
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
